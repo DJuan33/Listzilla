@@ -1,0 +1,43 @@
+name: listzilla
+description: Open Source Task Manager App.
+
+version: 0.7.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  kiwi: ^3.0.0
+  table_calendar: ^3.0.2
+  flutter_bloc: ^7.0.0
+  equatable: ^2.0.2
+  google_fonts: ^2.1.0
+  emoji_picker_flutter: ^1.0.7
+  hive: ^2.0.4
+  hive_flutter: ^1.0.0
+  uuid: ^3.0.4
+  intl: ^0.17.0
+  dotted_border: ^2.0.0+1
+  duration_picker: ^1.1.0+1
+  flutter_local_notifications: ^9.1.4
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_native_splash: ^1.3.1
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.0.4
+  hive_generator: ^1.1.0
+  kiwi_generator: ^3.0.1
+
+flutter_native_splash:
+  color: '#7986CB'
+  image: assets/images/logo.png
+  color_dark: '#283593'
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/google_fonts/

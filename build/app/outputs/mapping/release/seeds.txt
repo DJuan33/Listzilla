@@ -1,0 +1,1062 @@
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean isValidDrawableResource(android.content.Context,java.lang.String,io.flutter.plugin.common.MethodChannel$Result,java.lang.String)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.Object createParams
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+android.support.v4.media.session.MediaSessionCompat$QueueItem: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CALLED_AT
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource RawResource
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DELETE_NOTIFICATION_CHANNEL_GROUP_METHOD
+androidx.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+org.threeten.bp.zone.ZoneOffsetTransition
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents DayOfMonthAndTime
+android.support.v4.media.session.MediaSessionCompat$Token
+com.dexterous.flutterlocalnotifications.RepeatInterval: RepeatInterval(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.String summaryText
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void stopForegroundService(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.utils.StringUtils: StringUtils()
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DAY
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.PendingIntent getActivityPendingIntent(android.content.Context,int,android.content.Intent)
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidRawSoundResource(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_DRAWABLE_RESOURCE_ERROR_MESSAGE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_DETAILS
+org.threeten.bp.format.SignStyle: org.threeten.bp.format.SignStyle valueOf(java.lang.String)
+org.threeten.bp.chrono.HijrahEra: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.Class access$100(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String summaryText
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_RED
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DELETE_NOTIFICATION_CHANNEL_METHOD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setVisibility(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void saveScheduledNotifications(android.content.Context,java.util.ArrayList)
+androidx.media.AudioAttributesImplApi26: AudioAttributesImplApi26()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.content.Context applicationContext
+org.threeten.bp.chrono.IsoEra: org.threeten.bp.chrono.IsoEra valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledColor
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource BitmapFilePath
+androidx.core.graphics.drawable.IconCompat
+androidx.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+io.flutter.embedding.android.FlutterImageView
+org.threeten.bp.chrono.ChronoZonedDateTimeImpl
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+io.flutter.embedding.engine.FlutterJNI: void attachToNative(boolean)
+org.threeten.bp.Instant: java.lang.Object readResolve()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: io.flutter.plugin.common.MethodChannel channel
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DRAWABLE
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatLines
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void repeatNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+android.support.v4.app.RemoteActionCompatParcelizer
+org.threeten.bp.chrono.HijrahDate
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void initialize(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String id
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: DateTimeComponents(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.ArrayList loadScheduledNotifications(android.content.Context)
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource[] $VALUES
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.google.gson.TypeAdapter create(com.google.gson.Gson,com.google.gson.reflect.TypeToken)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory of(java.lang.Class)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_SUMMARY_TEXT
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MESSAGES
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+androidx.core.app.RemoteActionCompatParcelizer
+org.threeten.bp.chrono.IsoChronology: java.lang.Object readResolve()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+org.threeten.bp.chrono.JapaneseChronology: java.lang.Object readResolve()
+android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer maxProgress
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_GREEN
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INITIALIZE_METHOD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void removeNotificationFromCache(android.content.Context,java.lang.Integer)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setVibrationPattern(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+android.support.v4.media.MediaBrowserCompat$ItemReceiver
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SCHEDULED_NOTIFICATIONS
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.net.Uri retrieveSoundResourceUri(android.content.Context,java.lang.String,com.dexterous.flutterlocalnotifications.models.SoundSource)
+com.dexterous.flutterlocalnotifications.models.styles.StyleInformation: StyleInformation()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+org.threeten.bp.chrono.ThaiBuddhistEra: org.threeten.bp.chrono.ThaiBuddhistEra valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_DESCRIPTION
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer minute
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.Boolean canCreateNotificationChannel(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails)
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+org.threeten.bp.Ser: Ser()
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String timeZoneName
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.Long timestamp
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean enableLights
+org.threeten.bp.LocalTime: java.lang.Object readResolve()
+io.flutter.embedding.android.FlutterTextureView
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory registerSubtype(java.lang.Class)
+org.threeten.bp.chrono.HijrahDate: java.lang.Object readResolve()
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken[] values()
+org.threeten.bp.chrono.ThaiBuddhistChronology: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String CHANNEL_ACTION
+com.dexterous.flutterlocalnotifications.utils.StringUtils: java.lang.Boolean isNullOrEmpty(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: BigPictureStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.Object,com.dexterous.flutterlocalnotifications.models.BitmapSource,java.lang.Object,com.dexterous.flutterlocalnotifications.models.BitmapSource,java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Integer ledColor
+org.threeten.bp.chrono.Ser
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String REPEAT_INTERVAL
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SELECT_NOTIFICATION
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+androidx.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String scheduledDateTime
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean usesChronometer
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String DESCRIPTION
+io.flutter.embedding.engine.FlutterOverlaySurface
+org.threeten.bp.temporal.IsoFields$Unit: org.threeten.bp.temporal.IsoFields$Unit[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void initAndroidThreeTen(android.content.Context)
+org.threeten.bp.OffsetTime: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setSmallIcon(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String NAME
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.dexterous.flutterlocalnotifications.models.NotificationDetails extractNotificationDetails(io.flutter.plugin.common.MethodChannel$Result,java.util.Map)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle Default
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String START_FOREGROUND_SERVICE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_TAG
+com.dexterous.flutterlocalnotifications.models.MessageDetails
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformViewFactory viewFactory
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.util.ArrayList lines
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String getNextFireDateMatchingDateTimeComponents(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_ALL_METHOD
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+android.support.v4.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readBigPictureStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.NotificationStyle style
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_SOUND_ERROR_CODE
+androidx.core.app.RemoteActionCompat
+android.support.v4.media.MediaBrowserCompat$MediaItem: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CONTENT_TITLE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidLargeIcon(io.flutter.plugin.common.MethodChannel$Result,java.lang.Object,com.dexterous.flutterlocalnotifications.models.BitmapSource)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String STOP_FOREGROUND_SERVICE
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readGroupingInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String description
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+org.threeten.bp.format.DateTimeFormatterBuilder$SettingsParser: org.threeten.bp.format.DateTimeFormatterBuilder$SettingsParser valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_BIG_PICTURE_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_PICTURE_BITMAP_SOURCE
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String text
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Creator CREATOR
+org.threeten.bp.ZonedDateTime: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval Hourly
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PLAY_SOUND
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void scheduleNextRepeatingNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getNotificationAppLaunchDetails(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: com.dexterous.flutterlocalnotifications.models.BitmapSource bigPictureBitmapSource
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String name
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer color
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean channelShowBadge
+io.flutter.embedding.android.FlutterActivity: FlutterActivity()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.lifecycle.FullLifecycleObserverAdapter
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval Daily
+org.threeten.bp.ZoneOffset
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+org.threeten.bp.Year: java.lang.Object writeReplace()
+android.support.v4.media.AudioAttributesImplBaseParcelizer
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver: void onReceive(android.content.Context,android.content.Intent)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String USES_CHRONOMETER
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SOUND
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource DrawableResource
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Object largeIcon
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String SECOND
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String MINUTE
+com.dexterous.flutterlocalnotifications.models.PersonDetails: com.dexterous.flutterlocalnotifications.models.IconSource iconBitmapSource
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setLights(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_LAUNCHED_APP
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.text.Spanned fromHtml(java.lang.String)
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+org.threeten.bp.LocalDateTime: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatContentTitle
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_RED
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ENABLE_LIGHTS
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onAttachedToEngine(android.content.Context,io.flutter.plugin.common.BinaryMessenger)
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval[] $VALUES
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.NotificationStyle
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_NAME
+org.threeten.bp.zone.Ser
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ID
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: java.lang.Boolean htmlFormatBody
+org.threeten.bp.format.TextStyle: org.threeten.bp.format.TextStyle[] values()
+androidx.activity.ComponentActivity$2
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.String typeFieldName
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.Person buildPerson(android.content.Context,com.dexterous.flutterlocalnotifications.models.PersonDetails)
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatSummaryText
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_CONTENT_TITLE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void startForegroundService(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_KEY
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: com.dexterous.flutterlocalnotifications.models.BitmapSource largeIconBitmapSource
+org.threeten.bp.format.SignStyle: org.threeten.bp.format.SignStyle[] values()
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: MessagingStyleInformation(com.dexterous.flutterlocalnotifications.models.PersonDetails,java.lang.String,java.lang.Boolean,java.util.ArrayList,java.lang.Boolean,java.lang.Boolean)
+androidx.media.AudioAttributesImplApi21Parcelizer
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHORTCUT_ID
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+io.flutter.embedding.android.FlutterSplashView$SavedState
+android.support.v4.media.MediaBrowserCompat$MediaItem
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void repeat(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean fullScreenIntent
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction[] $VALUES
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void applyGrouping(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setBigPictureStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+android.support.v4.media.MediaBrowserCompat$SearchResultReceiver
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ENABLE_VIBRATION
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String IMPORTANCE
+com.dexterous.flutterlocalnotifications.models.PersonDetails
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHOW_WHEN
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails from(java.util.Map)
+com.dexterous.flutterlocalnotifications.models.MessageDetails: com.dexterous.flutterlocalnotifications.models.PersonDetails person
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: java.lang.Boolean htmlFormatTitle
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+com.google.common.util.concurrent.AbstractFuture: com.google.common.util.concurrent.AbstractFuture$Listener listeners
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String ZONED_SCHEDULE_METHOD
+io.flutter.embedding.engine.FlutterJNI: java.lang.String observatoryUri
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_BLUE
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval EveryMinute
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SOUND_SOURCE
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView
+org.threeten.bp.MonthDay: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.Boolean sendNotificationPayloadMessage(android.content.Intent)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+org.threeten.bp.chrono.ChronoLocalDateTimeImpl: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction channelAction
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+org.threeten.bp.OffsetDateTime
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+androidx.activity.ImmLeaksCleaner
+org.threeten.bp.temporal.ChronoField: org.threeten.bp.temporal.ChronoField[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer visibility
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelId
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String VIBRATION_PATTERN
+org.threeten.bp.chrono.ThaiBuddhistChronology
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_GREEN
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long calledAt
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean onlyAlertOnce
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancelNotification(java.lang.Integer,java.lang.String)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ALLOW_WHILE_IDLE
+com.dexterous.flutterlocalnotifications.models.Time: Time()
+androidx.media.AudioAttributesImplApi26
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getNotificationChannels(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TITLE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String subText
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SOUND_SOURCE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LARGE_ICON
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.graphics.drawable.IconCompat getIconFromSource(android.content.Context,java.lang.Object,com.dexterous.flutterlocalnotifications.models.IconSource)
+android.support.v4.media.AudioAttributesImplApi21Parcelizer
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SUB_TEXT
+org.threeten.bp.LocalDate: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.Time
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHOW_METHOD
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction CreateIfNotExists
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BOT
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.lang.Boolean groupConversation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean setAsGroupSummary
+com.dexterous.flutterlocalnotifications.NotificationStyle: NotificationStyle(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PAYLOAD
+org.threeten.bp.zone.Ser: java.lang.Object readResolve()
+org.threeten.bp.YearMonth: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readLargeIconInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ENABLE_VIBRATION
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String IMPORTANCE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_ON_MS
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer second
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void access$000(android.content.SharedPreferences$Editor,int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SCHEDULED_DATE_TIME
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+org.threeten.bp.LocalDateTime
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_BLUE
+org.threeten.bp.MonthDay
+org.threeten.bp.MonthDay: java.lang.Object readResolve()
+org.threeten.bp.chrono.ThaiBuddhistDate: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_LINES
+androidx.annotation.Keep
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_PICTURE
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$202(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_BLUE
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String NAME
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String shortcutId
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATIONS_METHOD
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.media.AudioAttributesImplApi21
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy[] values()
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.google.gson.Gson gson
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+org.threeten.bp.LocalDate: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SHOW_BADGE
+androidx.media.AudioAttributesImplBaseParcelizer
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory registerSubtype(java.lang.Class,java.lang.String)
+org.threeten.bp.format.ResolverStyle: org.threeten.bp.format.ResolverStyle[] values()
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean hideExpandedLargeIcon
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+android.support.v4.media.MediaDescriptionCompat
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String sound
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.DateTimeComponents matchDateTimeComponents
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin
+android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency scheduledNotificationRepeatFrequency
+org.threeten.bp.chrono.HijrahEra: org.threeten.bp.chrono.HijrahEra[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setProgress(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.RepeatInterval repeatInterval
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI,boolean)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: ScheduledNotificationRepeatFrequency(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onAttachedToActivity(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PERSON
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: long[] vibrationPattern
+org.threeten.bp.chrono.JapaneseDate: void readObject(java.io.ObjectInputStream)
+org.threeten.bp.ZoneRegion: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIME_ZONE_NAME
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map access$200(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void showNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readColor(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.NotificationCompat$MessagingStyle$Message createMessage(android.content.Context,com.dexterous.flutterlocalnotifications.models.MessageDetails)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setInboxStyle(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+org.threeten.bp.Year: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String id
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: NotificationChannelGroupDetails()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PAYLOAD
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents Time
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String METHOD_CHANNEL
+org.threeten.bp.chrono.HijrahEra
+com.dexterous.flutterlocalnotifications.models.BitmapSource: BitmapSource(java.lang.String,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View,int,int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_BIG_TEXT
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean indeterminate
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean showWhen
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String tag
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String ID
+io.flutter.plugin.platform.SingleViewPresentation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_ID
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: InboxStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.util.ArrayList,java.lang.Boolean)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+org.threeten.bp.chrono.ChronoZonedDateTimeImpl: java.lang.Object writeReplace()
+com.google.common.util.concurrent.AbstractFuture: com.google.common.util.concurrent.AbstractFuture$Waiter waiters
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean autoCancel
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean enableVibration
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatContentTitle
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.Boolean important
+androidx.media.AudioAttributesImplBase
+org.threeten.bp.chrono.ThaiBuddhistDate
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map labelToSubtype
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String KEY
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LARGE_ICON_ERROR_CODE
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+org.threeten.bp.temporal.ChronoField: org.threeten.bp.temporal.ChronoField valueOf(java.lang.String)
+org.threeten.bp.OffsetDateTime: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readLedInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+org.threeten.bp.LocalTime: java.lang.Object writeReplace()
+org.threeten.bp.OffsetTime
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.content.Intent launchIntent
+io.flutter.view.AccessibilityViewEmbedder
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void deleteNotificationChannelGroup(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval Weekly
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+androidx.media.AudioAttributesImplBase: AudioAttributesImplBase()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.content.Intent getLaunchIntent(android.content.Context)
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource ByteArray
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean showProgress
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.Integer tryParseInt(java.lang.String)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+io.flutter.embedding.engine.FlutterJNI
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver: ScheduledNotificationBootReceiver()
+android.support.v4.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readMessagingStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+org.threeten.bp.DayOfWeek: org.threeten.bp.DayOfWeek valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: RuntimeTypeAdapterFactory(java.lang.Class,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction valueOf(java.lang.String)
+org.threeten.bp.DayOfWeek: org.threeten.bp.DayOfWeek[] values()
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String payload
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onAttachedToEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+io.flutter.embedding.android.FlutterSurfaceView
+android.support.v4.media.session.MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver
+com.dexterous.flutterlocalnotifications.models.Time: com.dexterous.flutterlocalnotifications.models.Time from(java.util.Map)
+org.threeten.bp.chrono.JapaneseEra: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: FlutterLocalNotificationsPlugin()
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.lang.String conversationTitle
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String sound
+com.dexterous.flutterlocalnotifications.models.IconSource
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+android.support.v4.media.session.ParcelableVolumeInfo
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String body
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String AUTO_CANCEL
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_SHOW_BADGE
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String NAME
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+io.flutter.embedding.android.FlutterView
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource FilePath
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PROGRESS
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PENDING_NOTIFICATION_REQUESTS_METHOD
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNextNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String groupId
+org.threeten.bp.Ser
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String dataMimeType
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.Class baseType
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatSummaryText
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map subtypeToLabel
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.styles.StyleInformation styleInformation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: NotificationDetails()
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource FlutterBitmapAsset
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String GROUP_ID
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils: BooleanUtils()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_ALPHA
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int overlayInsetTypes
+androidx.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+org.threeten.bp.chrono.JapaneseChronology
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency[] $VALUES
+android.support.v4.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+androidx.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readPlatformSpecifics(java.util.Map,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void deleteNotificationChannel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+android.support.v4.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CATEGORY
+org.threeten.bp.temporal.ChronoUnit: org.threeten.bp.temporal.ChronoUnit valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation
+org.threeten.bp.chrono.MinguoEra: java.lang.Object writeReplace()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String HOUR
+org.threeten.bp.format.TextStyle: org.threeten.bp.format.TextStyle valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+org.threeten.bp.chrono.MinguoChronology
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer iconResourceId
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.PendingIntent getBroadcastPendingIntent(android.content.Context,int,android.content.Intent)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.HashMap getMappedNotificationChannel(android.app.NotificationChannel)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_CONVERSATION
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String)
+org.threeten.bp.temporal.IsoFields$Unit: org.threeten.bp.temporal.IsoFields$Unit valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String URI
+org.threeten.bp.chrono.MinguoChronology: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHOW_WEEKLY_AT_DAY_AND_TIME_METHOD
+org.threeten.bp.chrono.Ser: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void createNotificationChannel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource ByteArray
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long parseLong(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents[] values()
+org.threeten.bp.chrono.ThaiBuddhistEra: org.threeten.bp.chrono.ThaiBuddhistEra[] values()
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PRIORITY
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MAX_PROGRESS
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_TEXT
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelDescription
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+androidx.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+org.threeten.bp.ZoneRegion
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+org.threeten.bp.zone.StandardZoneRules: java.lang.Object writeReplace()
+org.threeten.bp.Duration
+org.threeten.bp.zone.ZoneOffsetTransitionRule$TimeDefinition: org.threeten.bp.zone.ZoneOffsetTransitionRule$TimeDefinition valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+com.google.common.util.concurrent.AbstractFuture$Waiter: java.lang.Thread thread
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+org.threeten.bp.zone.ZoneOffsetTransition: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: long calculateNextNotificationTrigger(long,long)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+androidx.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+androidx.versionedparcelable.CustomVersionedParcelable
+org.threeten.bp.zone.StandardZoneRules
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void show(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TEXT
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String STYLE_INFORMATION
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: long[] vibrationPattern
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String WHEN
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+io.flutter.plugins.GeneratedPluginRegistrant
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.google.gson.Gson buildGson()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CREATE_NOTIFICATION_CHANNEL_GROUP_METHOD
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long timeoutAfter
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer id
+org.threeten.bp.YearMonth: java.lang.Object writeReplace()
+org.threeten.bp.Year
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LED_DETAILS_ERROR_MESSAGE
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean showBadge
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer groupAlertBehavior
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.NotificationDetails from(java.util.Map)
+org.threeten.bp.temporal.IsoFields$Field: org.threeten.bp.temporal.IsoFields$Field[] values()
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents DateAndTime
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onReattachedToActivityForConfigChanges(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.util.ArrayList readMessages(java.util.ArrayList)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatBigText
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String title
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer progress
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String DESCRIPTION
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle Media
+org.threeten.bp.format.DateTimeFormatterBuilder$SettingsParser: org.threeten.bp.format.DateTimeFormatterBuilder$SettingsParser[] values()
+androidx.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+org.threeten.bp.ZoneRegion: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LARGE_ICON_BITMAP_SOURCE
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+org.threeten.bp.chrono.ThaiBuddhistEra
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean enableVibration
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.Activity mainActivity
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction Update
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.String access$000(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void tryCommittingInBackground(android.content.SharedPreferences$Editor,int)
+org.threeten.bp.chrono.MinguoDate: java.lang.Object writeReplace()
+androidx.savedstate.Recreator
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BODY
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean htmlFormatContentTitle
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$602(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_ICON_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.SoundSource soundSource
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidBigPictureResources(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle valueOf(java.lang.String)
+org.threeten.bp.temporal.IsoFields$Field: org.threeten.bp.temporal.IsoFields$Field valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.AlarmManager getAlarmManager(android.content.Context)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_RAW_RESOURCE_ERROR_MESSAGE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SUMMARY_TEXT
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ONGOING
+io.flutter.view.FlutterCallbackInformation
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.Notification createNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+org.threeten.bp.zone.ZoneOffsetTransitionRule
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.String contentTitle
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean allowWhileIdle
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String VISIBILITY
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String category
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readSoundInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String dataUri
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.BitmapSource largeIconBitmapSource
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void registerWith(io.flutter.plugin.common.PluginRegistry$Registrar)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SOUND
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource valueOf(java.lang.String)
+org.threeten.bp.chrono.MinguoEra: org.threeten.bp.chrono.MinguoEra[] values()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readInboxStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancelAllNotifications(io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView: void setSplashDrawable(android.graphics.drawable.Drawable)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver: ScheduledNotificationReceiver()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void saveScheduledNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNextNotificationMatchingDateComponents(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer priority
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readProgressInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+androidx.media.AudioAttributesImplApi21: AudioAttributesImplApi21()
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval valueOf(java.lang.String)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void scheduleNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean launchedActivityFromHistory(android.content.Intent)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ticker
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledOffMs
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setCategory(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MATCH_DATE_TIME_COMPONENTS
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ENABLE_LIGHTS
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String name
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_RED
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver: void onReceive(android.content.Context,android.content.Intent)
+androidx.savedstate.SavedStateRegistry$1
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean playSound
+org.threeten.bp.chrono.Chronology: java.lang.Object writeReplace()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource[] $VALUES
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle BigText
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SCHEDULED_NOTIFICATION_REPEAT_FREQUENCY
+org.threeten.bp.chrono.MinguoDate
+org.threeten.bp.chrono.IsoChronology
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: int[] additionalFlags
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long millisecondsSinceEpoch
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+com.dexterous.flutterlocalnotifications.utils.StringUtils
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LINES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean ongoing
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+android.support.v4.media.MediaBrowserCompat$CustomActionResultReceiver
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setSound(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readChannelInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_ALERT_BEHAVIOR
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+androidx.lifecycle.Lifecycling$1
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromActivity()
+org.threeten.bp.Month: org.threeten.bp.Month[] values()
+android.support.v4.media.AudioAttributesCompatParcelizer
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction channelAction
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setupNotificationChannel(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails)
+org.threeten.bp.chrono.HijrahEra: org.threeten.bp.chrono.HijrahEra valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency Daily
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+androidx.core.app.CoreComponentFactory
+com.dexterous.flutterlocalnotifications.models.SoundSource
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidLedDetails(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHOW_PROGRESS
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: DefaultStyleInformation(java.lang.Boolean,java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_ACTION
+com.dexterous.flutterlocalnotifications.RepeatInterval
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHOW_DAILY_AT_TIME_METHOD
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Object bigPicture
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation getDefaultStyleInformation(java.util.Map)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+org.threeten.bp.ZonedDateTime
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String name
+org.threeten.bp.LocalTime
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource[] values()
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy[] values()
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+com.dexterous.flutterlocalnotifications.models.BitmapSource
+org.threeten.bp.chrono.MinguoEra
+org.threeten.bp.Instant: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.MessageDetails: MessageDetails(java.lang.String,java.lang.Long,com.dexterous.flutterlocalnotifications.models.PersonDetails,java.lang.String,java.lang.String)
+org.threeten.bp.temporal.ChronoUnit: org.threeten.bp.temporal.ChronoUnit[] values()
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String bigText
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.NotificationManagerCompat getNotificationManager(android.content.Context)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_CONTENT
+com.google.common.util.concurrent.AbstractFuture$Waiter: com.google.common.util.concurrent.AbstractFuture$Waiter next
+org.threeten.bp.chrono.MinguoEra: org.threeten.bp.chrono.MinguoEra valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean enableLights
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_ID
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils: boolean getValue(java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.util.ArrayList messages
+androidx.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+com.google.common.util.concurrent.AbstractFuture: java.lang.Object value
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromActivityForConfigChanges()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle Inbox
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_GREEN
+org.threeten.bp.chrono.JapaneseEra
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PERIODICALLY_SHOW_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ID
+com.example.listzilla.MainActivity
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.Time repeatTime
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setMediaStyle(androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PLATFORM_SPECIFICS
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String groupKey
+android.support.v4.media.session.MediaSessionCompat$QueueItem
+androidx.versionedparcelable.ParcelImpl
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+org.threeten.bp.chrono.ChronoZonedDateTimeImpl: java.lang.Object readResolve()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.Object icon
+org.threeten.bp.chrono.HijrahChronology
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: int getDrawableResourceId(android.content.Context,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency[] values()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: BigTextStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean)
+org.threeten.bp.chrono.ThaiBuddhistEra: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void schedule(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+android.support.v4.graphics.drawable.IconCompatParcelizer
+org.threeten.bp.Duration: java.lang.Object writeReplace()
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+android.support.v4.media.MediaMetadataCompat
+androidx.fragment.app.Fragment$2
+com.dexterous.flutterlocalnotifications.models.NotificationDetails
+org.threeten.bp.format.ResolverStyle: org.threeten.bp.format.ResolverStyle valueOf(java.lang.String)
+org.threeten.bp.Ser: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Object largeIcon
+org.threeten.bp.Duration: java.lang.Object readResolve()
+androidx.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: NotificationChannelDetails()
+org.threeten.bp.Instant
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: com.dexterous.flutterlocalnotifications.models.PersonDetails person
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents
+androidx.lifecycle.SingleGeneratedAdapterObserver
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HIDE_EXPANDED_LARGE_ICON
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setBigTextStyle(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+androidx.media.AudioAttributesCompat
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+android.support.v4.media.session.PlaybackStateCompat$CustomAction
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ADDITIONAL_FLAGS
+org.threeten.bp.LocalDate
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_TITLE
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource ContentUri
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: byte[] castObjectToByteArray(java.lang.Object)
+android.support.v4.media.session.PlaybackStateCompat
+androidx.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String VIBRATION_PATTERN
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory of(java.lang.Class,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String STYLE
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Integer importance
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String REPEAT_TIME
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readBigTextStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean setRefreshRateFPSCalled
+org.threeten.bp.OffsetDateTime: java.lang.Object writeReplace()
+androidx.activity.ComponentActivity$3
+androidx.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.PersonDetails readPersonDetails(java.util.Map)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MILLISECONDS_SINCE_EPOCH
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer hour
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CONVERSATION_TITLE
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ICON_SOURCE
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation
+org.threeten.bp.chrono.JapaneseDate: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledOnMs
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String description
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIMEOUT_AFTER
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String contentTitle
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean playSound
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.String contentTitle
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.String summaryText
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+org.threeten.bp.chrono.IsoEra: org.threeten.bp.chrono.IsoEra[] values()
+org.threeten.bp.chrono.JapaneseEra: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATIONS_ERROR_MESSAGE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void createNotificationChannelGroup(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+androidx.media.AudioAttributesImplApi26Parcelizer
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer day
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+com.dexterous.flutterlocalnotifications.models.styles.StyleInformation
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails from(java.util.Map)
+androidx.media.AudioAttributesCompatParcelizer
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformViewFactory,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,java.lang.Object,android.view.View$OnFocusChangeListener)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ICON
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ONLY_ALERT_ONCE
+org.threeten.bp.chrono.JapaneseDate
+com.example.listzilla.MainActivity: MainActivity()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHARED_PREFERENCES_KEY
+org.threeten.bp.Period
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getActiveNotifications(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DATA_MIME_TYPE
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource DrawableResource
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean htmlFormatSummaryText
+android.support.v4.media.AudioAttributesImplApi26Parcelizer
+org.threeten.bp.ZoneOffset: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String INDETERMINATE
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelName
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_ALPHA
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String getNextFireDate(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+org.threeten.bp.ZonedDateTime: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_CHANNELS_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents valueOf(java.lang.String)
+androidx.media.AudioAttributesCompat: AudioAttributesCompat()
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+org.threeten.bp.chrono.ChronoLocalDateTimeImpl
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String PLAY_SOUND
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_OFF_MS
+org.threeten.bp.OffsetTime: java.lang.Object readResolve()
+org.threeten.bp.ZoneOffset: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.graphics.Bitmap getBitmapFromSource(android.content.Context,java.lang.Object,com.dexterous.flutterlocalnotifications.models.BitmapSource)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle BigPicture
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DEFAULT_ICON
+org.threeten.bp.zone.ZoneOffsetTransitionRule: java.lang.Object writeReplace()
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_ALPHA
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents[] $VALUES
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIMESTAMP
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean onNewIntent(android.content.Intent)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: long calculateRepeatIntervalMilliseconds(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+androidx.core.graphics.drawable.IconCompatParcelizer
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onMethodCall(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_APP_LAUNCH_DETAILS_METHOD
+org.threeten.bp.Month: org.threeten.bp.Month valueOf(java.lang.String)
+org.threeten.bp.Period: java.lang.Object readResolve()
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+org.threeten.bp.zone.ZoneOffsetTransitionRule$TimeDefinition: org.threeten.bp.zone.ZoneOffsetTransitionRule$TimeDefinition[] values()
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource[] $VALUES
+org.threeten.bp.chrono.Chronology: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String icon
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedSchedule(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle Messaging
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource[] values()
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+org.threeten.bp.chrono.HijrahChronology: java.lang.Object readResolve()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String IMPORTANT
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.Boolean bot
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SET_AS_GROUP_SUMMARY
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.SoundSource soundSource
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String FULL_SCREEN_INTENT
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+org.threeten.bp.YearMonth
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SCHEDULE_METHOD
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setActivity(android.app.Activity)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DATA_URI
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long when
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents DayOfWeekAndTime
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails fromNotificationDetails(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle[] $VALUES
+com.dexterous.flutterlocalnotifications.models.IconSource: IconSource(java.lang.String,int)
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setTimeoutAfter(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+android.support.v4.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+org.threeten.bp.chrono.HijrahDate: java.lang.Object writeReplace()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String uri
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource Uri
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidIcon(io.flutter.plugin.common.MethodChannel$Result,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.SoundSource: SoundSource(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void pendingNotificationRequests(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TICKER
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer importance
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LED_DETAILS_ERROR_CODE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setMessagingStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+android.support.v4.media.RatingCompat
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void rescheduleNotifications(android.content.Context)
+org.threeten.bp.LocalDateTime: java.lang.Object writeReplace()
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_CHANNELS_METHOD
+com.dexterous.flutterlocalnotifications.models.PersonDetails: PersonDetails(java.lang.Boolean,java.lang.Object,com.dexterous.flutterlocalnotifications.models.IconSource,java.lang.Boolean,java.lang.String,java.lang.String,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String key
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CREATE_NOTIFICATION_CHANNEL_METHOD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATIONS_ERROR_CODE
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI,boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: NotificationChannelAction(java.lang.String,int)
+android.support.v4.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+android.support.v4.media.MediaDescriptionCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency Weekly

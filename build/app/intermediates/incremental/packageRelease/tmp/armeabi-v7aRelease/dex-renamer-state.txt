@@ -1,0 +1,4 @@
+#Wed Dec 01 23:12:12 COT 2021
+base.0=/Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

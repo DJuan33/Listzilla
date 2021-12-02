@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.listzilla"
+4    android:versionCode="4001"
+5    android:versionName="0.7.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+11-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:7:22-78
+12    <uses-permission android:name="android.permission.VIBRATE" />
+12-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:8:5-66
+12-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:8:22-63
+13    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+13-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:9:5-81
+13-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+14-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+14-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+15
+16    <application
+16-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:3:4-40:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.0] /Users/djuan33/.gradle/caches/transforms-2/files-2.1/a69d6fcd21e670073cd9cab171299398/core-1.3.0/AndroidManifest.xml:24:18-86
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:5:9-43
+19        android:label="Listzilla" >
+19-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:4:9-34
+20        <activity
+20-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:6:9-34:20
+21            android:name="com.example.listzilla.MainActivity"
+21-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:7:13-41
+22            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+22-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:10:13-163
+23            android:hardwareAccelerated="true"
+23-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:11:13-47
+24            android:launchMode="singleTop"
+24-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:8:13-43
+25            android:theme="@style/LaunchTheme"
+25-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:9:13-47
+26            android:windowSoftInputMode="adjustResize" >
+26-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:12:13-55
+27
+28            <!--
+29                 Specifies an Android theme to apply to this Activity as soon as
+30                 the Android process has started. This theme is visible to the user
+31                 while the Flutter UI initializes. After that, this theme continues
+32                 to determine the Window background behind the Flutter UI.
+33            -->
+34            <meta-data
+34-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:17:13-20:17
+35                android:name="io.flutter.embedding.android.NormalTheme"
+35-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:18:15-70
+36                android:resource="@style/NormalTheme" />
+36-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:19:15-52
+37            <!--
+38                 Displays an Android View that continues showing the launch screen
+39                 Drawable until Flutter paints its first frame, then this splash
+40                 screen fades out. A splash screen is useful to avoid any visual
+41                 gap between the end of Android's launch screen and the painting of
+42                 Flutter's first frame.
+43            -->
+44            <meta-data
+44-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:26:13-29:17
+45                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+45-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:27:15-79
+46                android:resource="@drawable/launch_background" />
+46-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:28:15-61
+47
+48            <intent-filter>
+48-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:30:13-33:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:31:17-68
+49-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:31:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:32:17-76
+51-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:32:27-74
+52            </intent-filter>
+53        </activity>
+54        <!--
+55             Don't delete the meta-data below.
+56             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+57        -->
+58        <meta-data
+58-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:37:9-39:33
+59            android:name="flutterEmbedding"
+59-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:38:13-44
+60            android:value="2" />
+60-->/Users/djuan33/Documents/Personal/listzilla_android/listzilla/android/app/src/main/AndroidManifest.xml:39:13-30
+61
+62        <receiver
+62-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:13:9-15:40
+63            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
+63-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:14:13-97
+64            android:exported="false" />
+64-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+65        <receiver
+65-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:16:9-25:20
+66            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
+66-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:17:13-101
+67            android:exported="false" >
+67-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:18:13-37
+68            <intent-filter>
+68-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:19:13-24:29
+69                <action android:name="android.intent.action.BOOT_COMPLETED" />
+69-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:20:17-79
+69-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:20:25-76
+70                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+70-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:21:17-84
+70-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:21:25-81
+71                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+71-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:22:17-82
+71-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:22:25-79
+72                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+72-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:23:17-82
+72-->[:flutter_local_notifications] /Users/djuan33/Documents/Personal/listzilla_android/listzilla/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:23:25-79
+73            </intent-filter>
+74        </receiver>
+75    </application>
+76
+77</manifest>
